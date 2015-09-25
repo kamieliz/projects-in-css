@@ -1,0 +1,1 @@
+This folder contains the files necessary to create a custom HTMl5/CSS landing page that will be fully responsive and will render nicely on multiple screen sizes
